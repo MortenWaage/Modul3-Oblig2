@@ -1,0 +1,16 @@
+D:\GET Academy\Modul 3\Oppgaver\Oblig2\SimpleChess-master\SimpleChess\bin\Debug\net5.0\SimpleChess.exe
+D:\GET Academy\Modul 3\Oppgaver\Oblig2\SimpleChess-master\SimpleChess\bin\Debug\net5.0\SimpleChess.deps.json
+D:\GET Academy\Modul 3\Oppgaver\Oblig2\SimpleChess-master\SimpleChess\bin\Debug\net5.0\SimpleChess.runtimeconfig.json
+D:\GET Academy\Modul 3\Oppgaver\Oblig2\SimpleChess-master\SimpleChess\bin\Debug\net5.0\SimpleChess.runtimeconfig.dev.json
+D:\GET Academy\Modul 3\Oppgaver\Oblig2\SimpleChess-master\SimpleChess\bin\Debug\net5.0\SimpleChess.dll
+D:\GET Academy\Modul 3\Oppgaver\Oblig2\SimpleChess-master\SimpleChess\bin\Debug\net5.0\ref\SimpleChess.dll
+D:\GET Academy\Modul 3\Oppgaver\Oblig2\SimpleChess-master\SimpleChess\bin\Debug\net5.0\SimpleChess.pdb
+D:\GET Academy\Modul 3\Oppgaver\Oblig2\SimpleChess-master\SimpleChess\obj\Debug\net5.0\SimpleChess.csproj.AssemblyReference.cache
+D:\GET Academy\Modul 3\Oppgaver\Oblig2\SimpleChess-master\SimpleChess\obj\Debug\net5.0\SimpleChess.GeneratedMSBuildEditorConfig.editorconfig
+D:\GET Academy\Modul 3\Oppgaver\Oblig2\SimpleChess-master\SimpleChess\obj\Debug\net5.0\SimpleChess.AssemblyInfoInputs.cache
+D:\GET Academy\Modul 3\Oppgaver\Oblig2\SimpleChess-master\SimpleChess\obj\Debug\net5.0\SimpleChess.AssemblyInfo.cs
+D:\GET Academy\Modul 3\Oppgaver\Oblig2\SimpleChess-master\SimpleChess\obj\Debug\net5.0\SimpleChess.csproj.CoreCompileInputs.cache
+D:\GET Academy\Modul 3\Oppgaver\Oblig2\SimpleChess-master\SimpleChess\obj\Debug\net5.0\SimpleChess.dll
+D:\GET Academy\Modul 3\Oppgaver\Oblig2\SimpleChess-master\SimpleChess\obj\Debug\net5.0\ref\SimpleChess.dll
+D:\GET Academy\Modul 3\Oppgaver\Oblig2\SimpleChess-master\SimpleChess\obj\Debug\net5.0\SimpleChess.pdb
+D:\GET Academy\Modul 3\Oppgaver\Oblig2\SimpleChess-master\SimpleChess\obj\Debug\net5.0\SimpleChess.genruntimeconfig.cache
